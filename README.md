@@ -1,4 +1,4 @@
-# Low-Latency Trading Simulator
+# Low-Latency Trading System
 
 A high-performance matching engine and market data simulator built in modern C++ for **low-latency trading systems research**.  
 Designed to replicate core components of exchange infrastructure, with a focus on **microsecond-level performance**, **concurrency**, and **deterministic order matching**.
